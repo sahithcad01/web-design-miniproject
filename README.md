@@ -1,2 +1,2 @@
 # web-design-miniproject
-Its contains HTML, CSS &amp; JavaScript lang mini-Projects
+Its contains HTML, CSS &amp; JavaScript lang mini-Projects:
